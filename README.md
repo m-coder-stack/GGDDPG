@@ -5,11 +5,12 @@ The source code of "Research on Spatiotemporal Optimization of UAV Swarm Network
 # Cite
 OurDDPG.py
 
-https://github.com/sfujim/TD3/blob/master/utils.py
+https://github.com/sfujim/TD3/blob/master/OurDDPG.py
+
 
 utils.py
 
-https://github.com/sfujim/TD3/blob/master/OurDDPG.py
+https://github.com/sfujim/TD3/blob/master/utils.py
 @inproceedings{fujimoto2018addressing,
   title={Addressing Function Approximation Error in Actor-Critic Methods},
   author={Fujimoto, Scott and Hoof, Herke and Meger, David},
